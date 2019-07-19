@@ -19,4 +19,4 @@ Making the worst case time complexity O(n^3)
 
 1(c)the only n complexity is in the last line, aking the final worst case complexity O(n)
 
-2-I would start at the middle floor to see if the egg broke, and if so, I would go to the top, if not I would go between the bottom and the middle, and I would just keep cutting the distance in half up or down, this reduces the complexity to O(logn) complexity. 
+2-I would start at the middle floor to see if the egg broke, and if so, I would go to the top, if not, I would go between the bottom and the middle, and I would just keep cutting the distance in half up or down, this reduces the complexity to O(logn) complexity. 
